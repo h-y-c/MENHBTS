@@ -6,15 +6,19 @@ Chang et al.
 Oct 2025
 
 
-# Data sources and code used in the manuscript
+# Data sources and source codes used in the manuscript
 
-## Maine-New Hampshire Bottom Trawl Survey and code
+## Maine-New Hampshire Bottom Trawl Survey and source code
+
 https://mainedmr.shinyapps.io/MaineDMR_Trawl_Survey_Portal/
 
 https://dmr-maine.opendata.arcgis.com/search?collection=document
 
 https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=41870e11ee&attid=0.1&permmsgid=msg-f:1794611941724143309&th=18e7be0d80243ecd&view=att&disp=inline&ser=1&sadnir=2&saddbat=ANGjdJ_JpDNTtQ6JQUomqmI99eSY9YgZB5GHF-GbmoxtlzjLN9DfbP3ixBIQa-QdA-JPdajiWprddPE1wnWRWbtsawR6gRbnpbq1CSW66cZqpoSjbmAX51maeQ88RCAgo_JhKQD5Jz8A9uMh3C0K0ks8VJzEvTstKZIzQrzv5R64JGenhAe6LlWYIqkalk2FooQIhM5SJKJ_Uc0ILje7eBfdyDLY5gUjE6xOewyKwVYav5rSIlr-7oYurnWGm-6t99wnZpOKpYbaygJRHkVN4BvckPVCRbBkRN-ZJMfWPP4UYYYHgAvegdLkD_fB5lwUwFZgKpq9jLGB6JNg0YHiO3_zBQMR8MDSTPVhWw_xCnXDp9isFGGJtZ2VIymoMR2camf-gxvztyBDfQ-LOTLkfVca6pODIDmljXdH1W_RHmE9r7MdI2INWL-wf3VbpSs-yLTP2nrdF-9O-J5q22EoFUoz2OM0uVgSo6-wF5OGuZxd66ig8pdSBfkOhrASzjNSSVQSZ8YtMKvhGFMemDaxEQ6RyyI1nLZ9s14N1-OnBh6wH_DkQQNGhmz2cjbWa9CpYhbmF-EkWpIb8OCasoNIUeq8I3xoBeUZurkjxo8EtGtOZ492BFlVImfvQvCkCHrnbNoZTB2QOL3bSQU7yhRTKfaCTSFNADOWthbtjTIVv3SrY9LjlfbgXdzxIRD9VFiuLgZ6KmW9jJrtRL3F8s64U-ecVbH1ndagiJKVBgX-9lU9lsqrbxSQ9rgzLw6dX4MdeVo6YxCpw44ydFSetKyRYQ4NVA5Xhsck32lkMLbgFJKIR2ebIduwc8nb2ZHMoniT2XKegC2yN7ChMPugNq8Dh78S6l3BajyVKVh_rvSEMyAnWzEM6gpO16Y8CVB3iNKmm3ny7Du5z8RUhluwI2nTN-zCHtrBEFTcn9PtQx8F9JKzIGkuibarBo_z1QCj-eIsDpAghyWfFe4sWv-qurVTVfKzBxyJh3ccfJBnKf8aERu9F8xgMrPQhfv4MRvdCowAlX5teV19uuIcr9c1nGQ56hVDNxLxfxFa7udafW7t5Qo2HgJGoCdqaU-HUr8nlZ8
 
+https://www.alr-journal.org/articles/alr/olm/2009/02/alr013-09/alr013-09_online_only.zip
+
+https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.12613&file=mee312613-sup-0001-AppendixS1.pdf
 
 ## OISST
 https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html
